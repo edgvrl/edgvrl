@@ -17,8 +17,8 @@
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></td>
+    <!--<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></td>-->
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
@@ -34,8 +34,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></td>
     <td></td>
-    <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -43,8 +41,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -58,16 +54,12 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
   </tr>
 
   <tr>
     <td><strong>GUI Dev</strong></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="JavaFX" width="40" height="40"/></td>
     <td></td>
     <td></td>
     <td></td>
@@ -82,16 +74,12 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
   </tr>
 
   <tr>
-    <td><strong>Operating Systems</strong></td>
+    <td><strong>Server Managment</strong></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -100,12 +88,10 @@
 
   <tr>
     <td><strong>Creative Tools</strong></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></td>
-    <td><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/></td> 
+    <td><img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/fusion-badge-75x75.png" alt="Fusion360" width="40" height="40"/></td>
     <td></td>
     <td></td>
   </tr>
