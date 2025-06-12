@@ -99,17 +99,17 @@
 
 <table align="center">
   <tr>
-    <th colspan="9" align="center"><h3 align="center">📊 GitHub Stats</h3></th>
+    <th colspan="5" align="center"><h3 align="center">📊 GitHub Stats</h3></th>
   </tr>
   <tr>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edgvrl&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300"/>
+    <td style="padding: 10px;" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edgvrl&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="250"/>
+    </td>
+    <td style="padding: 10px;" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=edgvrl&show_icons=true&locale=en" alt="GitHub Stats" width="325"/>
     </td>
     <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=edgvrl&show_icons=true&locale=en" alt="GitHub Stats" width="300"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://komarev.com/ghpvc/?username=edgvrl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150"/>
+      <img src="https://komarev.com/ghpvc/?username=edgvrl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="100"/>
     </td>
   </tr>
 </table>
