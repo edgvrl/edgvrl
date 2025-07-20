@@ -17,8 +17,8 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></td>
     <!--<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></td>-->
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></td>
@@ -32,6 +32,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40"/></td>
     <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -42,11 +43,13 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
 
   <tr>
     <td><strong>Game Dev</strong></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40"/></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -62,6 +65,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -69,6 +73,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -82,6 +87,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -90,6 +96,7 @@
     <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40"/></td> 
     <td><img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/fusion-badge-75x75.png" alt="Fusion360" width="40"/></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
