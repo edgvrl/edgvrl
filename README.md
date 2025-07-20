@@ -2,7 +2,7 @@
 <h3 align="center">A student and passionate software developer from Austria 🇦🇹</h3>
 
 - 🔭 I’m currently working on [SZ-Läuft 2025](https://github.com/SZ-Laeuft)  
-- 🌱 I’m currently learning **C++, C#**, and **Svelte**  
+- 🌱 I’m currently learning **C++** and **Svelte**  
 - 📫 How to reach me: **eduard.gavrila@sz-ybbs.ac.at**
 
 ---
@@ -15,8 +15,8 @@
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></td>
-    <!--<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/></td>-->
+    <!--<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></td>-->
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></td>
